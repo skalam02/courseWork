@@ -141,7 +141,9 @@ a:after {
 
 .pt {
 	padding-top: 50px;
+	padding-left: auto;
 	padding-bottom: 50px;
+	padding-right: auto;
 }
 
 
