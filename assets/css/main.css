@@ -130,7 +130,7 @@ a:after {
 /* Helpers */
 
 .img-responsive {
-	margin: auto auto;
+	margin: auto;
 }
 
 
@@ -141,9 +141,8 @@ a:after {
 
 .pt {
 	padding-top: 50px;
-	padding-left: auto;
 	padding-bottom: 50px;
-	padding-right: auto;
+
 }
 
 
